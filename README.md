@@ -2,13 +2,13 @@
 
 A Machine Learning-powered web app that predicts whether a patient is at risk of heart disease, based on clinical and diagnostic attributes. Built using **Python**, **Scikit-learn**, and deployed with **Streamlit Cloud** for real-time access.
 
-Streamlit App Screenshot(![image](https://github.com/user-attachments/assets/3ada0c80-e487-4467-bc5e-7416635123a6)
+Streamlit App Screenshot ![image](https://github.com/user-attachments/assets/3ada0c80-e487-4467-bc5e-7416635123a6)
 
 ---
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the live app](https://your-username-your-app-name.streamlit.app)
+👉 [Click here to try the live app](https://heart-disease-pred-2ehxyaxjfbhhu3ev9jrxky.streamlit.app/)
 
 ---
 
@@ -34,14 +34,6 @@ Streamlit App Screenshot(![image](https://github.com/user-attachments/assets/3ad
 | `Streamlit`    | Web app framework                        |
 
 ---
-
-## 📁 Project Structure
-heart-disease-app/
-├── app.py # Streamlit web app
-├── heart_disease_model.pkl # Trained Random Forest model
-├── scaler.pkl # StandardScaler for input features
-├── requirements.txt # Project dependencies
-└── README.md # Project overview
 
 ## **Installation**
 # 1. Clone the repository
