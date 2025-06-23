@@ -2,7 +2,7 @@
 
 A Machine Learning-powered web app that predicts whether a patient is at risk of heart disease, based on clinical and diagnostic attributes. Built using **Python**, **Scikit-learn**, and deployed with **Streamlit Cloud** for real-time access.
 
-![Streamlit App Screenshot](![image](https://github.com/user-attachments/assets/3ada0c80-e487-4467-bc5e-7416635123a6)
+Streamlit App Screenshot(![image](https://github.com/user-attachments/assets/3ada0c80-e487-4467-bc5e-7416635123a6)
 
 ---
 
